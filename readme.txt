@@ -4,7 +4,7 @@ Tags: google, keyword, SEO, suggest, search, research, search engine, search eng
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6Z6CZDW8PPBBJ
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.9
-Tested up to: 4.0
+Tested up to: 5.6.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Stable Tag: 1.0.2
